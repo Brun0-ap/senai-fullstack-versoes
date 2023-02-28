@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T14:27:04.044Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AjKNIfK9TrWmesZDeD5y" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T14:27:48.404Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1TclE9xkaiXsJoS8FYa8" version="20.8.23" type="github">
   <diagram name="Página-1" id="WUZBNZjyS-Li2RwmIFBN">
     <mxGraphModel dx="1434" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -104,16 +104,16 @@
           <mxGeometry x="425" y="800" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5WnhRsqnPIhOjYexiLJV-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&quot;Sistema Encerramento&quot;&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1160" width="100" height="60" as="geometry" />
+          <mxGeometry x="270" y="1040" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5WnhRsqnPIhOjYexiLJV-21" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Saldo&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="270" y="980" width="100" height="60" as="geometry" />
+          <mxGeometry x="270" y="870" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5WnhRsqnPIhOjYexiLJV-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;encerrar ? (s/n)&lt;/font&gt;&lt;/font&gt;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1060" width="100" height="60" as="geometry" />
+          <mxGeometry x="270" y="960" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5WnhRsqnPIhOjYexiLJV-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;FIM&lt;/font&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1260" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="1129" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
